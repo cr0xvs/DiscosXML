@@ -1,0 +1,8 @@
+com\mycompany\discos\CancionesDisco.class
+module-info.class
+com\mycompany\discos\App.class
+com\mycompany\discos\UtilXML.class
+com\mycompany\discos\Disco.class
+com\mycompany\discos\Discos.class
+com\mycompany\discos\UtilDiscos.class
+com\mycompany\discos\LocalDateAdapter.class
