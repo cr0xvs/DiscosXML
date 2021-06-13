@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<discos>
+    <disco id="111111111">
+        <tituloDisco>Martes 13</tituloDisco>
+        <artista>Natos y Waor</artista>
+        <tiempoDisco>44.21</tiempoDisco>
+        <precio>12.0</precio>
+        <favorito>true</favorito>
+        <fecLanzamiento>2015-10-13</fecLanzamiento>
+    </disco>
+    <disco id="222222222">
+        <tituloDisco>Konbanwa</tituloDisco>
+        <artista>Sticky M.A.</artista>
+        <tiempoDisco>29.41</tiempoDisco>
+        <precio>9.99</precio>
+        <favorito>true</favorito>
+        <fecLanzamiento>2020-06-26</fecLanzamiento>
+    </disco>
+    <disco id="333333333">
+        <tituloDisco>Desde el Fin del Mundo</tituloDisco>
+        <artista>Duki</artista>
+        <tiempoDisco>57.18</tiempoDisco>
+        <precio>9.99</precio>
+        <favorito>true</favorito>
+        <fecLanzamiento>2021-04-22</fecLanzamiento>
+    </disco>
+    <disco id="444444444">
+        <tituloDisco>Súper Sangre Joven</tituloDisco>
+        <artista>Duki</artista>
+        <tiempoDisco>25.09</tiempoDisco>
+        <precio>9.99</precio>
+        <favorito>true</favorito>
+        <fecLanzamiento>2019-11-01</fecLanzamiento>
+    </disco>
+    <disco id="555555555">
+        <tituloDisco>Antezana 247</tituloDisco>
+        <artista>YSY A</artista>
+        <tiempoDisco>30.13</tiempoDisco>
+        <precio>9.99</precio>
+        <favorito>true</favorito>
+        <fecLanzamiento>2018-11-11</fecLanzamiento>
+    </disco>
+</discos>
